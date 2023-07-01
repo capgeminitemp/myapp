@@ -102,7 +102,7 @@ class App extends React.Component {
   render() {
     return (
       <Container>
-        <Title>Pokapoka</Title>
+        <Title>Pokapoka2</Title>
         <TwoColumnLayout>
         <div>
         <Input 
